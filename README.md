@@ -25,7 +25,7 @@ El archivo `data.csv` contiene información sobre títulos de Netflix, incluyend
 - `imdbNumVotes`: Número de votos en IMDb
 - `availableCountries`: Países donde está disponible
 
-Fuente: [datos.transporte.gob.ar](https://datos.transporte.gob.ar/)
+Fuente: [https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset?resource=download)
 
 ## Requisitos
 
